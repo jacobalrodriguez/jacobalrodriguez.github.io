@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalinlk: /about/
+permalink: /about/
 header:
   image: "/images/milkyway.jpg"
 ---
