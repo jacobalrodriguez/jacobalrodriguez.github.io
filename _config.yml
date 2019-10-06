@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:jacobalrodriguez@outlook.com
+      url: mailto:jacobalrodriguez@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jacobalrodriguez/jacobalrodriguez.github.io"
+      url: "https://github.com/jacobalrodriguez/jacobalrodriguez.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/jacobalrodriguez/"
+      url: "https://www.linkedin.com/in/jacobalrodriguez/"
 
 # Site Footer
 footer:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/jacobalrodriguez/jacobalrodriguez.github.io"
+      url:"https://github.com/jacobalrodriguez/jacobalrodriguez.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/jacobalrodriguez/"
+      url: "https://www.linkedin.com/in/jacobalrodriguez/"
 
 
 # Reading Files
