@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/milkyway.jpg"
+  image: "/images/mainheader.jpg"
 ---
 
 I'm a junior data analyst in the greater southern California area. Over the course of my academic and professional career,
