@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog/portfolio!"
-date: 2019-10-07
+date: 2019-10-08
 tags: [blog, analytics, portfolio]
 header:
  excerpt: "Excerpt here"
