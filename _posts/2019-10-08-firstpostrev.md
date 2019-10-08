@@ -6,11 +6,11 @@ header:
  excerpt: "Excerpt here"
 ---
  
-#H1 Heading
+<h1>H1 Heading</h1>
  
-##H2 Heading
+<h2>H2 Heading</h2>
  
-###H3 Heading
+<h3>H3 Heading</h3>
  
  
 heres some text.
