@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Welcome to my blog/portfolio!"
 date: 2019-10-08
 tags: [blog, analytics, portfolio]
