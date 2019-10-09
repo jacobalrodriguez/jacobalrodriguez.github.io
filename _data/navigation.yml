@@ -1,17 +1,15 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Visualizations"
-    url: /visualizations/
+  - title: "Blog"
+    url: /blog/
   - title: "Excel"
     url: /excel/
   - title: "Python"
     url: /python/
-  - title: "Blog"
-    url: /blog/
-  - title: "Blogtest"
-    url: /blogtest/
+  - title: "About"
+    url: /about/
+  - title: "Visualizations"
+    url: /visualizations/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
