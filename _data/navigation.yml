@@ -10,6 +10,8 @@ main:
     url: /python/
   - title: "Blog"
     url: /blog/
+  - title: "Blogtest"
+    url: /blogtest/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
