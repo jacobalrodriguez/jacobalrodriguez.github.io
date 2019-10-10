@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jacobalrodriguez@outlook.com
+      #url: mailto:jacobalrodriguez@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -283,7 +283,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_pages/blog.md" #""
+      path: ""
       type: posts
     values:
       layout: single
