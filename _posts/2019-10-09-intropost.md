@@ -21,7 +21,7 @@ Before I post anything, I will clean up my various code as any coder/programmer 
 <br>
 
 Below is the main video I used to set up this jekyll site:
-- <a> https://www.youtube.com/watch?v=qWrcgHwSG8M</a>
+- <a href="https://www.youtube.com/watch?v=qWrcgHwSG8M">https://www.youtube.com/watch?v=qWrcgHwSG8M</a>
 
 It's simple video to use and gets the basics set up for starting a site. However, it is about a year old so there were some changes that needed to be made. It is also a very simple video, 
 and jekyll has a lot to offer. Below are some other sites/videos that I used to further develop this website:
