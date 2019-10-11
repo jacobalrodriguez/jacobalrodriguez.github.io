@@ -4,6 +4,6 @@ layout: archive
 
 {{ content }}
 
-{% for page in site.pages %}
-  <li><a href="{{ page.url }}">{{page.title}}</a></li>
+{% for post in site.pages %}
+  <li><a href="{{ post.url }}">{{post.title}}</a></li>
 {% endfor %}
