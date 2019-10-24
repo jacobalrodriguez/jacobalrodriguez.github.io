@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Introduction Post!"
-date: 2019-10-09
+date: 2019-10-20
 tags: [blog, analytics, portfolio]
 ---
  
