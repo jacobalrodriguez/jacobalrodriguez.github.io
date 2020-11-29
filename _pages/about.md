@@ -5,9 +5,17 @@ header:
   image: "/images/mainheader.jpg"
 ---
 
-I'm a junior data analyst in the greater southern California area. Over the course of my academic and professional career,
-I have obtained a wide range of skills that allows me to be versatile in any data related profession. These skills
-include data pre-processing, data manipulation, data visualization, and data modeling. 
+Hi! Thank you for viewing my data analytics/data science portfolio. My name is Jacob Rodriguez, I am an aspiring data 
+analyst/data scientist with a deep passion for all things data. My professional and educational careers have led me to 
+experience many data-related professions, exposing me to data analysis, data visualization, process automation, ETL methods,
+database management, and so much more at such an early stage in my career. 
 
-My undergraduate degree is a B.S. in Economics with a concentration in Supply Chain Management. I hope to enroll
-in a masters program in the near future and obtain an M.S. in Applied Analytics or Business Analytics. 
+I am currently obtaining my M.S. in Analytics from the Georgia Institute of Technology, with hopes of one day earning my Ph.D. in Economics.
+There are many incomplete projects that I hope to soon post on this portfolio, but the main goal of tihis is to promote analytical thinking
+and hopefully provide some useful methods and ideas for other analysts who are interested.  
+
+
+
+ 
+ 
+ 
